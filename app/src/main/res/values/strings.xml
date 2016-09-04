@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMSLogger</string>
+    <string name="package_name">com.ajibigad.smslogger.smslogger</string>
+    <string name="action_settings">Settings</string>
+    <string name="phoneNumberHint">enter phone number or name</string>
+    <string name="setPhoneNumber">Configure</string>
+</resources>
